@@ -14,9 +14,7 @@
 
 
 > # ❓**SelfHosting**
-- Fork this repo
-- Edit index.html
+- Fork This Repo
 - Need Help [Click Me](https://discord.gg/7dHSkaHE9w) 
-- Make Sure to give 🌟star
+- Make Sure To Give 🌟 Star
 
-> **Last Updated - Sep 9, 2021**<br>
