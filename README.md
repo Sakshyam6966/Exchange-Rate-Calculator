@@ -12,9 +12,5 @@
 > **Need Help!?** [Join Our Help Server](https://discord.gg/eWpusb5yn4)
 > **Visit Our Website** [Click Here](https://notyoursakshyam.notsakshyam6966.repl.co/)
 
-
-> # ❓**SelfHosting**
-- Fork This Repo
-- Need Help [Click Me](https://discord.gg/7dHSkaHE9w) 
 - Make Sure To Give 🌟 Star
 
